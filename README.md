@@ -1,2 +1,7 @@
-# data_management
-set of rules for how we organise our scp filestore
+# Data Management
+
+
+For a description see: https://github.com/scpyork/data_management/wiki
+
+
+
